@@ -17,7 +17,7 @@ Relevant Coursework: Applied Geophysics I & II, Gravity & Magnetic Methods, Inve
 **Geophysics**: Gravity, Magnetics, GPR, Seismic Refraction, ERT, Forward/Inverse Modeling\
 **Programming**: Python, Jupyter, Git/GitHub, Machine Learning\
 **Geospatial**: LiDAR/DEM Processing, GeoPandas, Rasterio\
-**Field Equipment**: CG-5 Gravimeter, GPR, Seismic Systems, GPS/GNSS\
+**Field Equipment**: CG-5 Gravimeter, GPR, Seismic Systems, GPS/GNSS
 
 ### GEOPHYSICAL EXPERIENCE & PROJECTS
 
@@ -29,7 +29,7 @@ Relevant Coursework: Applied Geophysics I & II, Gravity & Magnetic Methods, Inve
 **Landslide Susceptibility Modeling — Southeast Alaska | Spring 2026**\
  • Developed a geospatial machine-learning model using terrain, precipitation, seismic, and historical landslide data.\
  • Engineered DEM, rainfall, and earthquake-proximity features and applied spatial preprocessing to reduce geographic bias.\
- • Compared Random Forest and neural-network classifiers; Random Forest achieved 55% landslide recall versus 11% for the neural network.\
+ • Compared Random Forest and neural-network classifiers; Random Forest achieved 55% landslide recall versus 11% for the neural network.
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -38,6 +38,6 @@ Relevant Coursework: Applied Geophysics I & II, Gravity & Magnetic Methods, Inve
  • Reviewed and organized financial records in preparation for business tax reporting.\
 **Alaska X — Zipline Guide | Skagway, AK | May 2024–August 2025**\
  • Led daily tours in a safety-critical outdoor environment while maintaining operational protocols.\
- • Communicated safety procedures and coordinated with team members in a fast-paced field environment.\
+ • Communicated safety procedures and coordinated with team members in a fast-paced field environment.
 
 
